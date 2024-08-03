@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/undo.png</file>
+    <file>icons/approved.png</file>
+    <file>icons/bin.png</file>
+    <file>icons/checked.png</file>
+    <file>icons/check-list.png</file>
+    <file>icons/clear.png</file>
+    <file>icons/grid.png</file>
+    <file>icons/plus.png</file>
+    <file>icons/yumminky.png</file>
+  </qresource>
+</RCC>
